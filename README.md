@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Miriam  
 
-🚀 **Data Engineer | BI Developer | Data Enthusiast**  
+🚀 **Data Engineer | BI Developer**  
 
 I’m passionate about transforming raw data into meaningful insights and building scalable data systems that empower business decision-making. 
 
