@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Miriam  
 
-<!--
-**Nungari-Miriam/Nungari-Miriam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Data Engineer | BI Developer | Data Enthusiast**  
 
-Here are some ideas to get you started:
+I’m passionate about transforming raw data into meaningful insights and building scalable data systems that empower business decision-making. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱  **Current Focus**
+
+- Growing my expertise in Data Engineering and expanding knowledge in advanced data processing solutions.  
+
+💡 **What I Love Doing**
+- Developing data pipelines and automating workflows for analytics and reporting  
+- Building interactive dashboards that transform complex datasets into clear insights  
+- Exploring AI and large language models to enhance decision-making and reporting efficiency  
+- Learning and experimenting with scalable, real-world data architectures    
+
+🌐 **Let’s Connect**
+I’m open to collaborations, data roles and volunteering projects that push the boundaries of data and AI.  
+
+📫 [Email Me](mailto:nungarimiriam@gmail.com) | 💼 [LinkedIn](https://linkedin.com/in/miriam-nungari-nganga)
+
+
+
